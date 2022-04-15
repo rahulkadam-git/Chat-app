@@ -1,0 +1,53 @@
+#login {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+ background-color: #111B21;
+}
+
+
+.form-section {
+  width: 60%;
+  padding: 20px;
+  border-radius: 6px;
+
+}
+
+.login-inner-form {
+  margin: 50px 0 50px 0; 
+
+  #username,
+  #password {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 20px;
+  }
+}
+
+.submit-btn {
+  width: 100%;
+
+}
+
+.createAccount {
+  text-align: center;
+  padding-top: 1rem;
+  color: black;
+}
+
+#label {
+  padding-bottom: 10px;
+}
+
+.submitbtn{
+  padding-top: 20px;
+}
+
+.createAccount{
+  color: #5a7081;
+}

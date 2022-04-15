@@ -1,0 +1,39 @@
+.Navbar-menu {
+  cursor: pointer;
+  padding: 8px 18px;
+  border-radius: 50%;
+  margin: 0 10px;
+}
+
+.Navbar-menu:hover {
+  background-color: #374248;
+}
+
+.menu-list {
+  position: absolute;
+ background-color: #374248;
+  bottom: -138%;
+  right: 3px;
+  z-index: 8;
+  text-align: start;
+ 
+
+  ul {
+    list-style: none;
+  
+  }
+
+  li {
+    width: 100%;
+
+    padding: 10px 20px 10px 0;
+
+    color: white;
+    cursor: pointer;
+    width: 100%;
+    
+  }
+}
+li:hover {
+  background-color: #182229;
+}

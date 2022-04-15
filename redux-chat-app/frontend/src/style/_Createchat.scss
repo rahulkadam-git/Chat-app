@@ -1,0 +1,32 @@
+.Newchat {
+  padding: 8px 4px;
+  margin: 0 10px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.Newchat:hover {
+  background-color: #374248;
+}
+
+.offcanvas-header .btn-close {
+  color: #aebac1;
+}
+
+#offcanvasNavbar {
+  background-color: #111b21;
+  width: 30%;
+}
+
+.headerOff {
+  background-color: #374248;
+  color: #d9dee0;
+}
+
+.creategroupchat {
+  padding: 25px 30px;
+  color: white;
+  border-bottom: 1px solid #374248;
+  cursor: pointer;
+}
+

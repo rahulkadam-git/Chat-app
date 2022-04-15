@@ -1,0 +1,100 @@
+input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+  margin-bottom: 20px;
+}
+
+.signIn {
+  text-align: center;
+  padding-top: 1rem;
+}
+
+.name-surname {
+  display: flex;
+}
+
+.Name-box {
+  width: 50%;
+  padding: 5px 20px;
+
+  input {
+    margin: 5px 0;
+  }
+}
+
+.userSurname-box {
+  width: 50%;
+  padding: 5px 20px;
+  input {
+    margin: 5px 0;
+  }
+}
+
+.register-form-section {
+  width: 100%;
+}
+
+.complete-password-box {
+  display: flex;
+}
+
+.Password-box {
+  width: 50%;
+  padding: 0 20px;
+}
+
+.ConfirmPassword-box {
+  width: 50%;
+  padding: 0 20px;
+}
+
+.input-box {
+  display: flex;
+  align-items: center;
+  background-color: aliceblue;
+  border-radius: 25px;
+  padding: 3px 20px;
+
+  input {
+    border-radius: 0%;
+    margin-right: 10px;
+  }
+}
+
+.emailNusername {
+  display: flex;
+
+  .email-box {
+    width: 50%;
+    padding: 0 20px;
+  }
+
+  .userName-box {
+    width: 50%;
+    padding: 0 20px;
+  }
+}
+
+.buttons {
+  width: 100%;
+  display: flex;
+  align-items: center;
+ justify-content: space-between;
+  padding: 30px 20px;
+  color: #5a7081;
+
+}
+
+.uploadpic {
+  width: 80%;
+  padding: 10px 20px;
+}
+
+
+.title h3{
+    color:#5a7081;
+    padding-left: 20px;
+
+}

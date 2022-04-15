@@ -1,0 +1,35 @@
+//import font family
+
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Montserrat:wght@400;500&family=PT+Serif&family=Poppins:wght@300;400&family=Roboto+Slab:wght@700&family=Roboto:wght@100;400&display=swap");
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+
+
+
+//import partial file
+@import url(./_login.scss);
+@import url(./_Register.scss);
+@import url(./_Dashboard.scss);
+@import url(./_Navbar.scss);
+@import url(./_sidedrawer.scss);
+@import url(./_ChatBox.scss);
+@import url(./_searchbox.scss);
+@import url(./_DisplayUserList.scss);
+@import url(./_Mychats.scss);
+@import url(./_profile.scss);
+@import url(./_Newchat.scss);
+@import url(./_UserDisplayList.scss);
+@import url(./_navbar-menu.scss);
+@import url(./_logout.scss);
+@import url(./_Createchat.scss);
+@import url(./_ChatbocHeader.scss);
+@import url(./_MessageBox.scss);
+@import url(./_TypingBox.scss);
+@import url(./_ChatSearchBox.scss);
+@import url(./_UserBadge.scss);
+@import url(./_profilemenu.scss);
+@import url(./_Updategroup.scss);
+@import url(./_ReceiverProfile.scss);
+@import url(./_ChatBoxLandingPage.scss);

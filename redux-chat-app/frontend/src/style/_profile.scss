@@ -1,0 +1,37 @@
+.profile-pic img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-left: 20px;
+}
+.profile_header {
+  color: #aebac1;
+}
+
+.inner-profile-pic img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 30px 0;
+}
+
+.information {
+  color: white;
+  padding: 30px 0;
+  font-size: 1.5rem;
+}
+
+.information h6 {
+  color: #aebac1;
+}
+
+.profile-information {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.profile_header {
+  background-color: #374248;
+}

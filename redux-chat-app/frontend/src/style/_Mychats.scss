@@ -1,0 +1,16 @@
+.chat-list-container {
+  display: flex;
+  color: white;
+  align-items: center;
+  min-height: 8vh;
+  padding-left: 20px;
+  cursor: pointer;
+  border-bottom: 1px solid #202c33;
+}
+
+.chat-list-container:hover {
+  background-color: #202c33;
+}
+
+
+

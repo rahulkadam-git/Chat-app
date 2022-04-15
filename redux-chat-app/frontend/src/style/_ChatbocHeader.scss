@@ -1,0 +1,22 @@
+.chatboc-header{
+    width: 100%;
+    height: 12.5vh;
+    background-color: #202C33;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.name{
+    color:white;
+    font-size: large;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.typing{
+    font-size: 1rem;
+}
